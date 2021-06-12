@@ -277,7 +277,7 @@ html {
 */
 
 .body-nmkhoi {
-  background-image: url(StawHat.jpg);
+  background-image: url(./images/StawHat.jpg);
   background-repeat: no-repeat;
   background-position-y: center;
   background-attachment: fixed;
@@ -289,7 +289,7 @@ html {
 }
 
 .student-profile .card .card-header-info {
-  background-image: url(background-info.jpg);
+  background-image: url(./images/background-info.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
